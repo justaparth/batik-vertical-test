@@ -1,6 +1,11 @@
 # batik-vertical-test
 
+
+## Overview
 Testing some vertical rendering issues with apache batik.
+
+## Main Code
+The java version is located under `src/main/VerticalTest.java` while the browser version is locade under `web/svg_page.html`. The svgs are exactly the same (except for small changes like `href` vs `xlink:href` and the relative path to the font file.)
 
 ## How To Run
 
